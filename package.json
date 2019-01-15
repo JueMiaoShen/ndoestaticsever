@@ -2,14 +2,14 @@
   "name": "staticfilesever",
   "version": "1.0.0",
   "description": "static file sever example",
-  "main": "sever.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node sever.js"
+    "start":"node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JueMiaoShen/ndoestaticsever.git"
+    "url": "git+https://github.com/JueMiaoShen/ndoestaticserver.git"
   },
   "keywords": [
     "node",
@@ -20,9 +20,9 @@
   "author": "juemiaoshen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JueMiaoShen/ndoestaticsever/issues"
+    "url": "https://github.com/JueMiaoShen/ndoestaticserver/issues"
   },
-  "homepage": "https://github.com/JueMiaoShen/ndoestaticsever#readme",
+  "homepage": "https://github.com/JueMiaoShen/ndoestaticserver#readme",
   "devDependencies": {
     "mime": "^2.4.0"
   }
