@@ -1,9 +1,12 @@
 # nodestaticserver
-node static sever  for img or  other file
+- goal    
+Providing static services for other project;    
+Static files such as image links, icon,CSS, etc
 
-npm run start 
+- npm run start 
 
-open:   
+- open:   
 localhost:8000/   
 or  
 localhost:8000/img/mn.jpg
+
